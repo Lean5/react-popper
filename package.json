@@ -5,8 +5,8 @@
   "license": "MIT",
   "author": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)",
   "homepage": "https://github.com/souporserious/react-popper",
-  "main": "lib/cjs/index.js",
-  "module": "lib/esm/index.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "typings": "typings/react-popper.d.ts",
   "files": [
     "/dist",
